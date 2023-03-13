@@ -1,4 +1,4 @@
-#Quote Rander
+#Quote Rander 
 This is a simple browser extension that generates a random quote every time you click on the extension icon in your browser. The quotes are displayed in a pop-up window and can be copied to your clipboard for easy sharing.
 
 Installation
