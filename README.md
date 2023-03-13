@@ -9,4 +9,5 @@ This is a simple browser extension that generates a random quote every time you 
 4. Click on "Load unpacked" and select the cloned repository.
 ## Usage
 Once the extension is installed, you can use it by clicking on the extension icon in your browser. A pop-up window will appear with a randomly generated quote. You can copy the quote to your clipboard by clicking on the "Copy Quote" button.
-## https://i.ibb.co/Jynf1bR/image.png
+## ![image](https://user-images.githubusercontent.com/102828808/224604887-756210bc-8e00-4d67-9d18-813f4382f1b8.png)
+
